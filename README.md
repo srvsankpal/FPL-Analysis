@@ -13,5 +13,5 @@ some of additional metrics
 ### fpl_player_vs_difficulty.py file
 players points scoring vs difficulty visualization
 
-### display_data.sql file
+### fetch_data.sql file
 MySQL stored procedure for ease of filtering and sorting of player data
