@@ -6,7 +6,7 @@ stored, filter and sorted players data of points and also created additional met
 
 some of additional metrics
 - average points per game: to judge the points scoring consistency of player
-- Playing in team chances: probability of player in playing in team based on past games
+- in squad consistency: probability of player in playing team based on past games
 - recent game form: mean points of past 3 games to judge the player form
 - average game fixture difficulty for next 3 games
 
